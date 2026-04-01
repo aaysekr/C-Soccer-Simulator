@@ -24,3 +24,5 @@ Bu proje, C programlama dili kullanılarak geliştirilmiş, tamamen konsol üzer
 
 ## 👨‍💻 Geliştirici Notu
 Bu proje, düşük seviyeli programlama dillerinde oyun döngüsü mantığını ve basit yapay zeka karar mekanizmalarını anlamak amacıyla geliştirilmiştir.
+<img width="1457" height="708" alt="image" src="https://github.com/user-attachments/assets/24571623-59ce-453e-b13f-85787523039e" />
+
